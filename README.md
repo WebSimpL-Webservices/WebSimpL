@@ -1,2 +1,3 @@
 # WebSimpL
-Repository for the website of WebSimpL
+
+To be discussed later
